@@ -1,9 +1,9 @@
 
 # Welcome, new coder.
-# Enter your code on line 7 to print 'Hello, World!'
+# Enter your code on line 7 print 'Hello, World!'
 # to the console (the panel on the right)
 
-print("Hello");
+print("Quoth the raven, 'Nevermore'.")
 
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
